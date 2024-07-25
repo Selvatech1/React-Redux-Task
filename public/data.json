@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Wolf So Grim and Mangy",
+      "price": 249.00,
+      "quantity": 1,
+      "image": "/book.png"
+    },
+    {
+      "id": 2,
+      "title": "Another Product",
+      "price": 99.99,
+      "quantity": 1,
+      "image": "/img2.png"
+    }
+    
+  ]
+}
